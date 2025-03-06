@@ -138,6 +138,10 @@ www.quora.com##.q-box:style(filter: blur(0px)!important)
 www.xataka.com##.didomi-popup__backdrop.didomi-notice-popup.didomi-popup-backdrop
 www.xataka.com##body:remove-class(didomi-popup-open)
 
+! Nov 29, 2024 https://www.xataka.com
+www.genbeta.com##.didomi-popup__backdrop.didomi-notice-popup.didomi-popup-backdrop
+www.genbeta.com##body:remove-class(didomi-popup-open)
+
 ! 4 dic 2024 https://hardzone.es
 hardzone.es##.gaz-gdpr-modal
 hardzone.es##body:style(overflow: visible!important)
