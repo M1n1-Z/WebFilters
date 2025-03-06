@@ -1,0 +1,206 @@
+![Adblock Plus 2.0]
+! Title: M1n1_Z Base filter
+! Description: Custom filters created by M1n1_z.
+! Version: 1.0.0.0
+! TimeUpdated: 2025-03-06T05:31:38+00:00
+! Expires: 5 days (update frequency)
+!-------------------------------------------------------------------------------!
+
+! 2021-10-28 https://www.reddit.com
+www.reddit.com##._1acwN_tUhJ8w-n7oCp-Aw3._3Ig_EsWWVLquWs2yBBQjec._1DK52RbaamLOWw5UPaht_S
+
+! 2021-11-09 https://ar.pinterest.com
+ar.pinterest.com##div.Hsu.iyn.zI7:nth-of-type(3) > div > div:nth-of-type(2) > div > .Hsu.iyn.zI7 > .Hsu.iyn.zI7
+ar.pinterest.com##div.Hsu.iyn.zI7:nth-of-type(3) > div > div:nth-of-type(2) > div > .Hsu.iyn.zI7
+ar.pinterest.com###__PWS_ROOT__ > .Hsu.iyn.zI7 > .Hsu.iyn.zI7 > div > div.Hsu.iyn.zI7:nth-of-type(3) > div > div:nth-of-type(2)
+
+! 2022-01-18 https://mcd.digimobil.es
+mcd.digimobil.es##.PromoDesk.l3.offset-m5.m7.s12.col
+mcd.digimobil.es##.PromoResp
+
+! 2022-04-29 https://www.antupload.com
+www.antupload.com###blocks
+
+! 2022-05-25 https://global.cainiao.com
+global.cainiao.com##.survey-wrapper
+
+! 2022-07-05 https://www.pccomponentes.com
+www.pccomponentes.com##.eDHGwO.sc-gVplKw
+
+! 2022-07-28 https://www.google.es
+www.google.es##.szppmdbYutt__middle-slot-promo
+
+! 2022-07-28 chrome://newtab
+newtab##middle-slot-promo
+
+! 2022-09-01 https://www.newtral.es
+www.newtral.es##.c-nwtpubli-desktop-sticky
+www.newtral.es###Banner_1
+www.newtral.es###Banner_2
+
+! 2022-09-01 https://es.aliexpress.com
+es.aliexpress.com##._3KrBP
+
+! 2023-01-09 https://onedrive.live.com
+onedrive.live.com##.od-PremiumUpsellBanner
+
+! 2023-01-27 https://www.segurosveterinarios.com
+www.segurosveterinarios.com##div#pdv4overlay.pdv4overlays:nth-of-type(13)
+www.segurosveterinarios.com##div#pdv4overlay.pdv4overlays:nth-of-type(11)
+||cdn1.pdmntn.com/popups/HyrmCpP0Y/preview?referer=www.segurosveterinarios.com%7C%7C%7C%2Fpreguntas_sv_es.php&type=yesno$subdocument
+www.segurosveterinarios.com##div#pdv4wrap
+www.segurosveterinarios.com##div#pdv4overlay.pdv4overlays
+
+! 2023-02-27 https://www.alltrails.com
+www.alltrails.com##._3FuyjSS2Qsfj93TVWPET7A\=\=._71IpTlT8OLfkGNX5Sn5YzA\=\=
+
+! 2023-11-03 https://www.leroymerlin.es
+www.leroymerlin.es##li.l-resultsList__breakzone
+
+! 2023-11-15 https://www.seur.com
+www.seur.com##.cdk-overlay-backdrop-showing.cdk-overlay-dark-backdrop.cdk-overlay-backdrop
+www.seur.com##.ng-star-inserted.ng-trigger-dialogContainer.ng-trigger.ng-tns-c21-0.cdk-dialog-container.mat-dialog-container
+
+! 2023-11-27 https://iptv-online.org
+iptv-online.org##.cmplz-show.cc-window.cmplz-categories-type-save-preferences.cmplz-center.optin.banner-1.cmplz-cookiebanner
+
+! 2024-02-12 https://mhhauto.com
+mhhauto.com##.banner
+mhhauto.com##.ticker
+
+! 20 sept 2024 https://www.rayovallecano.es
+||statics-maker.llt-services.com/ray/images/2023/12/12/medium-wp/c67f6d48-449c-4864-8962-784a9756842d-843.webp$image
+www.rayovallecano.es##.eAJHtv.sc-f4e9c5bf-0 > .cLEQpS.sc-f4e9c5bf-1
+www.rayovallecano.es##.eAJHtv.sc-f4e9c5bf-0
+
+! 2 oct 2024 https://es.euronews.com
+es.euronews.com###poool-fullscreen-widget
+
+! 2023-10-26 https://mail.yahoo.com
+mail.yahoo.com##.ybar-consent-link
+
+! 2023-11-09 https://mail.yahoo.com
+mail.yahoo.com##.I4_ZkbNhI.Z_O.cdPFi4_Z281SGl.aw4_n.O4_N.cZW7ROP_A.X_dRA.ab_C.e_VHH8F.j_Z197UJe.H_6NIX.s_6NIX.r_P.cdPFi_Z281SGl.D_F.b_0.O_N.I_ak5jA.c27KHO0_n
+
+! 2020-12-02 http://www.todo-mail.com
+www.todo-mail.com##.in.fade.modal
+
+! 2021-03-23 https://www.drive2.ru
+www.drive2.ru###ftPnEfGL5148101218460247 > .cREWUr
+
+! 2021-06-09 https://www.leroymerlin.es
+www.leroymerlin.es##.cookie-banner
+
+! 2022-01-31 https://tracking.vamox.io
+tracking.vamox.io##.v-sheet.text-center
+tracking.vamox.io##.v-overlay__scrim
+
+! 2022-02-18 https://pro.coinbase.com
+pro.coinbase.com##.cds-2-_bsbcj7.cds-primary-p1clp1xg.cds-space-between-sjpl91k.cds-row-ros4dsk.cds-center-c5dc66o.cds-flex-fytym9g
+
+! 2022-09-19 https://www.thewindowsclub.com
+www.thewindowsclub.com###ez-cookie-dialog-wrapper
+
+! 2023-02-06 https://www.ocu.org
+www.ocu.org##.padding-large.exclusive-paper-detail--hidescore
+
+! 2023-02-25 https://msguides.com
+msguides.com##.kknbnpcvhomb
+
+! 2023-12-04 https://mail.proton.me
+proton.me##.button-promotion
+
+! Nov 22, 2024 https://www.elespanol.com
+www.elespanol.com##.tp-modal
+www.elespanol.com##.tp-active.tp-backdrop
+www.elespanol.com##body:remove-class(tp-modal-open)
+www.elespanol.com##.main-header__subscribe
+
+! Remove the class on pageload: www.example.com##body:remove-class(xyz)
+!    https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#subjectremove-attrarg-subjectremove-classarg
+! If the class only appears later: www.example.com##body:watch-attr(class):remove-class(xyz)
+!    https://github.com/gorhill/uBlock/wiki/Procedural-cosmetic-filters#subjectwatch-attrarg
+
+! Nov 22, 2024 https://www.lasprovincias.es
+www.lasprovincias.es##.ev-em-modal-backdrop
+www.lasprovincias.es##.evolock-modal
+www.lasprovincias.es##.ev-em-modal.ev-em-modals
+www.lasprovincias.es##body:style(overflow: visible!important)
+www.lasprovincias.es##.vjs-pip-container
+www.lasprovincias.es##.v-btn--m.v-btn-g--t1.v-btn-g.v-btn.v-slc__b
+www.lasprovincias.es##.v-c.v-h__on
+
+! Nov 22, 2024 https://www.quora.com
+www.quora.com##body:style(overflow: visible!important)
+www.quora.com##.q-box:style(filter: blur(0px)!important)
+
+! Nov 29, 2024 https://www.xataka.com
+www.xataka.com##.didomi-popup__backdrop.didomi-notice-popup.didomi-popup-backdrop
+www.xataka.com##body:remove-class(didomi-popup-open)
+
+! 4 dic 2024 https://hardzone.es
+hardzone.es##.gaz-gdpr-modal
+hardzone.es##body:style(overflow: visible!important)
+
+! 12 dic 2024 https://www.motorpasion.com
+www.motorpasion.com##._69w07m
+www.motorpasion.com##body:style(overflow: visible!important)
+
+! 31 ene 2025 https://www.rankia.com
+www.rankia.com##.didomi-popup__backdrop.didomi-notice-popup.didomi-popup-backdrop
+www.rankia.com##body:remove-class(didomi-popup-open)
+
+! 3 feb 2025 https://www.hogarmania.com
+www.hogarmania.com##.sc-top-cls
+www.hogarmania.com##.publi-hogarmania
+www.hogarmania.com##.zona-publipie-portada
+www.hogarmania.com##.espacio-roba
+www.hogarmania.com##.publi_nativery
+www.hogarmania.com##.espacio-nativery
+
+! 4 mar 2025 https://www.tiendasactiva.com
+www.tiendasactiva.com##.cc-overlay
+
+! #### AÑADIDAS DESDE EL MOVIL ####
+! 18 ago 2024 https://amp.antena3.com
+||cmp.sibbo.net/v2.2/clients/atresmedia/pro/cmp-configurations/amp/sibbo-amp-frame-antena3noticias-com-es-v3.html$subdocument
+amp.antena3.com###sibboCMPIframe > div
+amp.antena3.com###sibboCMPIframe > i-amphtml-scroll-container
+
+! 27 oct 2024 https://elpais.com
+elpais.com###ctn_freemium_article
+
+! 25 nov 2024 https://www.avpasion.com
+www.avpasion.com##.cl-consent__inner
+www.avpasion.com##.cl-consent-center.cl-consent
+
+! 19 dic 2024 https://www.diariomotor.com
+www.diariomotor.com##.cl-consent-visible.cl-consent-popup--main.cl-consent-popup
+www.diariomotor.com##.cl-consent-bottom.cl-consent
+
+! 7 ene 2025 https://www.loteriasyapuestas.es
+||www.loteriasyapuestas.es/f/loterias/web_corporativa/Comunicacion/Publicaciones/videos_promocionales/imagen-app-3.png$image
+
+! 26 ene 2025 https://www.atresplayer.com
+www.atresplayer.com##.evxKih.style__StyledBackground-sc-1bpeygs-0
+
+! 1 feb 2025 https://www.alcalahoy.es
+www.alcalahoy.es##.td-header-sp-recs
+
+! 3 feb 2025 https://www.caranddriver.com
+www.caranddriver.com##._69w07m
+
+! 7 feb 2025 https://www.hogarmania.com
+www.hogarmania.com##.columna-contenido.grid-item > .mtb-10px.espacio-roba
+www.hogarmania.com###publi_sc-mpu-btf
+www.hogarmania.com###publi_sc-mpu-btf2
+www.hogarmania.com###publi_sc-mpu-btf3
+www.hogarmania.com##.mtb-10px.espacio-nativery
+
+! 8 feb 2025 https://www.antupload.com
+||ae01.alicdn.com/*.png
+||www.antupload.com/bee/images/descarga.jpeg$image
+
+! 11 feb 2025 https://www.motor.es
+www.motor.es##.AdContainer_ad-unit-section--mobile__Aw_kW.AdContainer_ad-unit-section--sticky__fs2YG.AdContainer_ad-unit-section--vertical__aGJ1Z.AdContainer_ad-unit-section--fixed__4XGjE.AdContainer_ad-unit-section--in-page__QwTBF.AdContainer_ad-unit-section__WRzDi
+www.motor.es##.News_news__content__NmmMt.NewsContent_news-content__qq2Vd > span.MobileContainer_mobile-container__ZamXA > div
