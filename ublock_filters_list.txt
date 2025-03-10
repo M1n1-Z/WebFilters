@@ -223,3 +223,4 @@ www.softzone.es##body:remove-class(didomi-popup-open)
 ! Mar 10, 2025 https://www.adslzone.net
 www.adslzone.net##.didomi-popup__backdrop.didomi-notice-popup.didomi-popup-backdrop
 www.adslzone.net##body:remove-class(didomi-popup-open)
+www.adslzone.net##body:style(overflow: visible!important)
