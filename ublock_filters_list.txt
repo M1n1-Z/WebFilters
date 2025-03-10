@@ -2,7 +2,7 @@
 ! Title: M1n1_Z Base filter
 ! Description: Custom filters created by M1n1_z.
 ! Version: 1.0.0.0
-! TimeUpdated: 2025-03-10T10:29:08+00:00
+! TimeUpdated: 2025-03-10T11:09:15+00:00
 !-------------------------------------------------------------------------------!
 
 ! 2021-10-28 https://www.reddit.com
@@ -224,3 +224,6 @@ www.softzone.es##body:remove-class(didomi-popup-open)
 www.adslzone.net##.didomi-popup__backdrop.didomi-notice-popup.didomi-popup-backdrop
 www.adslzone.net##body:remove-class(didomi-popup-open)
 www.adslzone.net##body:style(overflow: visible!important)
+
+! Mar 10, 2025 gdpr-modal
+###gaz-gdpr-modal
