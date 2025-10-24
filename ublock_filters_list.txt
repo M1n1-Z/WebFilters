@@ -1,8 +1,8 @@
 ![Adblock Plus 2.0]
 ! Title: M1n1_Z Base filter
 ! Description: Custom filters created by M1n1_z.
-! Version: 1.0.0.0
-! TimeUpdated: 2025-03-10T19:30:15+00:00
+! Version: 1.25.10.24
+! TimeUpdated: 2025-10-24T08:51:55+00:00
 !-------------------------------------------------------------------------------!
 
 ! 2021-10-28 https://www.reddit.com
@@ -42,6 +42,15 @@ es.aliexpress.com##._3KrBP
 
 ! 2023-01-09 https://onedrive.live.com
 onedrive.live.com##.od-PremiumUpsellBanner
+! 23 jun 2025 https://onedrive.live.com
+onedrive.live.com###GiveFeedbackButton_container
+onedrive.live.com###PROD_OneDrive-Web_SuiteNav_Unknown_HeaderDiamond_container
+onedrive.live.com##.storageUpsellBanner_4aa99544
+onedrive.live.com##.od-QuotaBanner-upsell
+onedrive.live.com##.bannerGleam_428d55a9.storageUpsellBanner_428d55a9
+onedrive.live.com###O365_MainLink_Help_container
+onedrive.live.com##.od-QuotaBannerWrapper-placeholder
+onedrive.live.com##.bannerGleam_4aa99544.storageUpsellBanner_4aa99544
 
 ! 2023-01-27 https://www.segurosveterinarios.com
 www.segurosveterinarios.com##div#pdv4overlay.pdv4overlays:nth-of-type(13)
@@ -77,9 +86,8 @@ es.euronews.com###poool-fullscreen-widget
 
 ! 2023-10-26 https://mail.yahoo.com
 mail.yahoo.com##.ybar-consent-link
-
-! 2023-11-09 https://mail.yahoo.com
 mail.yahoo.com##.I4_ZkbNhI.Z_O.cdPFi4_Z281SGl.aw4_n.O4_N.cZW7ROP_A.X_dRA.ab_C.e_VHH8F.j_Z197UJe.H_6NIX.s_6NIX.r_P.cdPFi_Z281SGl.D_F.b_0.O_N.I_ak5jA.c27KHO0_n
+mail.yahoo.com##.P_ZmsLix.H_6D6F
 
 ! 2020-12-02 http://www.todo-mail.com
 www.todo-mail.com##.in.fade.modal
@@ -231,3 +239,15 @@ www.adslzone.net###gaz-gdpr-modal
 ! Mar 10, 2025 https://www.xatakahome.com
 www.xatakahome.com##.didomi-popup__backdrop.didomi-notice-popup.didomi-popup-backdrop
 www.xatakahome.com##body:remove-class(didomi-popup-open)
+
+
+! 12 abr 2025 https://www.tiempoyradar.es
+www.tiempoyradar.es##.loaded > wo-ad
+
+! 5 jun 2025 https://trackpb.shipment.co
+||trackpb.shipment.co/assets/img/favicons/favicon_32.png$image,domain=trackpb.shipment.co
+
+! 24 oct 2025 https://www.infoplay.info
+www.infoplay.info###topHead
+www.infoplay.info##.in.fade.modal
+www.infoplay.info##.in.fade.modal-backdrop
