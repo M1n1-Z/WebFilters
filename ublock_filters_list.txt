@@ -255,4 +255,4 @@ www.infoplay.info###lomasvisto7dias > div.banner
 www.infoplay.info###bannerscroll
 www.infoplay.info##.fliplateral
 www.infoplay.info##body:style(overflow: visible!important)
-
+||www.infoplay.info/fotos/banners/infinity-gaming-1.gif$image
