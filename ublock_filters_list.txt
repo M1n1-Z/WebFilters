@@ -253,5 +253,5 @@ www.infoplay.info##.in.fade.modal
 www.infoplay.info##.in.fade.modal-backdrop
 www.infoplay.info###lomasvisto7dias > div.banner
 www.infoplay.info###bannerscroll
-www.infoplay.info##.fliplateral.bannerfijodcha
+www.infoplay.info##.fliplateral
 www.infoplay.info##body:style(overflow: visible!important)
