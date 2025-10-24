@@ -2,7 +2,7 @@
 ! Title: M1n1_Z Base filter
 ! Description: Custom filters created by M1n1_z.
 ! Version: 1.25.10.24
-! TimeUpdated: 2025-10-24T08:51:55+00:00
+! TimeUpdated: 2025-10-24T09:04:25+00:00
 !-------------------------------------------------------------------------------!
 
 ! 2021-10-28 https://www.reddit.com
@@ -255,3 +255,4 @@ www.infoplay.info###lomasvisto7dias > div.banner
 www.infoplay.info###bannerscroll
 www.infoplay.info##.fliplateral
 www.infoplay.info##body:style(overflow: visible!important)
+
