@@ -2,7 +2,7 @@
 ! Title: M1n1_Z Base filter
 ! Description: Custom filters created by M1n1_z.
 ! Version: 1.25.10.24
-! TimeUpdated: 2025-10-24T09:04:25+00:00
+! TimeUpdated: 2026-01-07T12:21:25+00:00
 !-------------------------------------------------------------------------------!
 
 ! 2021-10-28 https://www.reddit.com
@@ -205,7 +205,6 @@ www.hogarmania.com###publi_sc-mpu-btf3
 www.hogarmania.com##.mtb-10px.espacio-nativery
 
 ! 8 feb 2025 https://www.antupload.com
-||ae01.alicdn.com/*.png
 ||www.antupload.com/bee/images/descarga.jpeg$image
 
 ! 11 feb 2025 https://www.motor.es
@@ -256,3 +255,4 @@ www.infoplay.info###bannerscroll
 www.infoplay.info##.fliplateral
 www.infoplay.info##body:style(overflow: visible!important)
 ||www.infoplay.info/fotos/banners/infinity-gaming-1.gif$image
+
