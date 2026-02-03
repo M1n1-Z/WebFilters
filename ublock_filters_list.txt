@@ -269,7 +269,8 @@ protect-eu.ismartlife.me##.footer_footer-box__QzP-9:style(height: 83px !importan
 
 ! 03 feb 2026 Home Assistant Onedrive Backup addon footer
 xyz.tail57d3d0.ts.net/api/hassio_ingress/tzvloPJbTw5fqs9nq-O2RiHwuRcalqBUO67eO3esnXU##footer
-/api/hassio_ingress/tzvloPJbTw5fqs9nq-O2RiHwuRcalqBUO67eO3esnXU##footerT
+homeassistant.local/api/hassio_ingress/tzvloPJbTw5fqs9nq-O2RiHwuRcalqBUO67eO3esnXU##footer
+
 
 
 
