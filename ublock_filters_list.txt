@@ -2,7 +2,7 @@
 ! Title: M1n1_Z Base filter
 ! Description: Custom filters created by M1n1_z.
 ! Version: 1.26.02.03
-! TimeUpdated: 2026-02-03T07:48:05+00:00
+! TimeUpdated: 2026-02-03T23:42:05+00:00
 !-------------------------------------------------------------------------------!
 
 ! 2021-10-28 https://www.reddit.com
@@ -269,3 +269,5 @@ protect-eu.ismartlife.me##.footer_footer-box__QzP-9:style(height: 83px !importan
 
 ! 03 feb 2026 Home Assistant Onedrive Backup addon footer
 xyz.tail57d3d0.ts.net/api/hassio_ingress/tzvloPJbTw5fqs9nq-O2RiHwuRcalqBUO67eO3esnXU##footer
+homeassistant.local:8123/api/hassio_ingress/tzvloPJbTw5fqs9nq-O2RiHwuRcalqBUO67eO3esnXU##footer
+
